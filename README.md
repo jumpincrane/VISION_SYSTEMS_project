@@ -1,2 +1,2 @@
-# SEM1_visionsystems_project
-Vision systems project at Sem-1 Robotic and Autonomous Systems... detecting objects
+Projekt jest zaliczeniem przedmiotu z przetwarzania obrazów.
+Celem projektu jest poprawne zliczenie wszystkich żelków z podziałem na kształt oraz kolor.
